@@ -52,6 +52,8 @@ Native Android app displaying GPS coordinates, altitude, speed, and Plus Codes. 
 
 - [**HydroPeak Calendar**](pages/projects/HYDROPEAK.md) — Hydro-Québec peak events as a subscribable calendar for residential customers.
 
+- [**Pointes HQ Peaks**](pages/projects/POINTES-HQ-PEAKS.md) — Hydro-Québec peak events in an installable PWA built with Lit and Vite. [pointes-hq-peaks.b-cdn.net](https://pointes-hq-peaks.b-cdn.net/)
+
 ---
 
 [View Full Gallery](pages/GALLERY.md)

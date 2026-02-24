@@ -80,4 +80,14 @@ Hydro-Québec peak events as a subscribable calendar.
 
 ---
 
+## Pointes HQ Peaks
+
+Hydro-Québec peak events in a dark-themed installable PWA.
+
+[View Project](projects/POINTES-HQ-PEAKS.md)
+
+[![Pointes HQ Peaks](../assets/hydro-app.png)](projects/POINTES-HQ-PEAKS.md)
+
+---
+
 [Back to Main README](../README.md)

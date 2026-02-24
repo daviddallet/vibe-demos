@@ -36,4 +36,10 @@ Peak event data from [Hydro-Québec Open Data](https://donnees.hydroquebec.com/e
 
 ---
 
+## See Also
+
+- [Pointes HQ Peaks](POINTES-HQ-PEAKS.md) — The same peak events data displayed as an interactive PWA with filtering.
+
+---
+
 [← All Projects](../../README.md) | [Gallery](../GALLERY.md)
